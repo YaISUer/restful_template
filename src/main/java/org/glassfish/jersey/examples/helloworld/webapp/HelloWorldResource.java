@@ -52,7 +52,7 @@ import javax.ws.rs.core.UriInfo;
 import org.json.simple.JSONObject;
 
 /**
- * @author Pavel Bucek (pavel.bucek at oracle.com)
+ * @author Ya Chen
  */
 @Path("helloworld")
 public class HelloWorldResource {
